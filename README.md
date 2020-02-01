@@ -11,7 +11,7 @@ Docente: Ph.D. John William Branch
 Correo Electrónico: srobles@unal.edu.co  
 Asunto: CRP - G1 - Taller <Número del Taller>  
 
-## Talleres actuales:  
+### Talleres actuales:  
 **Taller 1:** PrimeraSemana/Sabado/TallerDatos  
 **Taller 2:** PrimeraSemana/Sabado/Ejercicios/3-FeatureSelection  
 **Taller 3:** PrimeraSemana/Sabado/Ejercicios/4-FeatureExtraction  
